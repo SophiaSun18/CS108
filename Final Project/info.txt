@@ -1,0 +1,8 @@
+bed/The matress is full of wormhole./The bedside table is empty./Something is in the pillow.
+fireplace/The fire is burning, but it is getting weaker./You feel so cold. How can you make the fire grow stronger?
+wardrobe/The wardrobe is nearly empty./You find a scissor in the drawer.
+window/The sky is dark. It is snowing outside./You can not get out of the window, but your hand can./Snow has piled up on the outside windowsill./You try to put your hand out, and your hand immediately get wet and cold.
+door/The door is locked. You can not break the lock./You try to yell for help, but there is no response./Maybe you shall look for other entrance to escape.
+bookshelf/There are many books on the shelf./You find a locked box under the bookshelf./Handbook: how to open the lock with a piece of wire./Weekly Science: Do you know the theory behind the magnifying glass?/Local news: Mr.Black finds the heat-revealed invisible ink.
+carpet/The carpet is quite dirty. No one has cleaned it for a long time./You try to roll up the carpet, and the air becomes thick with dust./You find a piece of rusted wire under the carpet.
+entrance/Follow the hint on the paper, you think you find the secret entrance./You knock on the floor, and the voice sounds empty./You try to break the floor, but it does not work./You try again./You can feel that you are about to success./Just do it harder!!

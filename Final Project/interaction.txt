@@ -1,0 +1,6 @@
+A scissor.,bed/You get a damaged pillow and a piece of dirty glass.//A damaged pillow.,A piece of dirty glass.
+A piece of rusted wire.,A locked box./You opened the box and get a piece of empty paper./A locked box.,A piece of rusted wire./A piece of empty paper.
+A damaged pillow., fireplace/You burnt the pillow and the fire grows bigger./A damaged pillow./Burning fire in the fireplace.
+A piece of dirty glass., window/You wash the dirty glass using the snow outside the window./A piece of dirty glass./A piece of clean glass.
+A piece of empty paper.,Burning fire in the fireplace./Words start to appear on the paper as you warm it up./A piece of empty paper./A piece of paper with little words.
+A piece of clean glass.,A piece of paper with little words./You use the glass as the magnifying lens and you can read the paper now.//

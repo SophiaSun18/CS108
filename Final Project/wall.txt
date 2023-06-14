@@ -1,0 +1,4 @@
+upper wall,18,20,582,20
+lower wall,18,580,582,580
+left wall,20,20,20,580
+right wall,580,20,580,580.

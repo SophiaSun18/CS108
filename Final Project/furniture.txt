@@ -1,0 +1,8 @@
+bed,22,22,220,240,blue
+fireplace,290,22,500,80,red
+wardrobe,22,330,150,578,brown
+window,570,115,590,255,orange
+door,170,570,300,590,green
+bookshelf,380,520,578,578,yellow
+carpet,265,170,530,470,white
+entrance,220,22,290,60,black.
